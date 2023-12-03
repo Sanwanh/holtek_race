@@ -1,0 +1,5 @@
+{
+    "port": "COM3",
+    "configuration": "upload_method=swd0,error_id=disabled,ICE_id=Board0",
+    "board": "HT32:HT32:BM53A367A"
+}
