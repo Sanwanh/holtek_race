@@ -30,7 +30,7 @@ void setup()
   Serial.begin(9600);
   Serial1.begin(9600);
   Serial4.begin(38400);
-  lineNotify.init("SAN", "0966856720");
+  lineNotify.init("ＸＸＸ", "ＸＸＸＸ");
   lineNotify.set_token("lKxdwgslXOi7fIN2tVhNeYG5HIBGvqIQk9G136pA4az");
   pinMode(9,OUTPUT);
   Mpu.begin();    // 三軸模組初始化
